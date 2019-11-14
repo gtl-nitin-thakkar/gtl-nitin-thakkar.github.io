@@ -18,7 +18,11 @@ This is a simple HTML web application for static content that includes a Images.
 
 # Structure
 
-- 
+- /css Have all css files
+- /fonts Have setting of font family
+- /images Have collection of Images of different modules
+- /js Have javascripts
+- /index.html Home Page of site
 
 # Live URL
 
