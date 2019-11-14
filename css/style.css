@@ -1160,9 +1160,7 @@ footer {
 	color: #000;
 	font-weight:700;
 }
-.footer-social li a span:hover {
-	text-decoration:line-through;
-}
+
 .footer-social li a i {
 	display:none;
 }
